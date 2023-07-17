@@ -1,0 +1,62 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karma:wght@500&family=Poppins:ital@1&display=swap" rel="stylesheet">
+html,body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+div#wrapper{
+    float: right;
+    width: 500px;
+}
+div#wrapper p{
+    line-height: 1.4;
+    text-align: justify;
+}
+
+div#navi{
+    float: right;
+    height: auto;
+    width: 200px;
+    padding-left: 6px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    background-color: #e3f2fd;
+}
+
+div#navi ul{
+    margin-left: 15px;
+    list-style-type: none; 
+}
+
+div#navi li{
+    margin-top: 3px;
+    margin-bottom: 4px;
+}
+/* div#footer{
+    clear: both;
+    width: 100%;
+    background: #e3f2fd;
+}
+div#footer p{
+    margin: 0;
+   
+    padding: 5px 10px;
+} */
+div#navi a{
+    padding: 6px;
+    text-decoration: none;
+    color: black;
+}
+div#navi a:hover{
+    color: white;
+}
+
+div#wrapper{
+    margin: 0 10px 10px;
+}
