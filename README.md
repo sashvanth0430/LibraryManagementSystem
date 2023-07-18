@@ -36,12 +36,43 @@ https://sashvanth0430.github.io/LibraryManagementSystem/
 
 
 ## Screenshots
+<h3> Admin Login Page</h3>
+<p>By using this page Admin can log on to the system</p>
 
 ![](meta/AdminLogin.png)
+
+<h3> Add Book Page</h3>
+<p>By using this page Admin can add new book into system</p>
+
 ![](meta/AddBooks.png)
+
+<h3> Add Student Page</h3>
+<p>By using this page Admin can add students to the system</p>
+
 ![](meta/AddStudent.png)
+
+<h3> Issue Book Page</h3>
+<p>By using this page Admin can manage issuing books from library</p>
+
 ![](meta/IssuseBooks.png)
+
+<h3> Student Report Page</h3>
+<p>By using this page Admin can see students who take books from library</p>
+
 ![](meta/StudentReport.png)
+
+<h3> Student Login Page</h3>
+<p>By using this page Students can log in to the system</p>
+
 ![](meta/StudentLogin.png)
+
+<h3> Books Page</h3>
+<p>By using this page Students can view the books available in library</p>
+
 ![](meta/ViewBooks.png)
+
+
+<h3> Place Order Page</h3>
+<p>By using this page Students can place order</p>
+
 ![](meta/PlaceOrder.png)
