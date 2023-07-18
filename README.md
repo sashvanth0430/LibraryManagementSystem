@@ -4,7 +4,6 @@
 
  + [Development](#development)
  + [Features](#features)
- + [Screenshots](meta/README.md)
 
 ## Development
 <h3 align="left">Languages and Tools:</h3>
