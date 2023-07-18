@@ -23,7 +23,8 @@ Notes in mind, Windows setup is not too tricky:
 
 * `cd LibraryManagementSystem`;
 
-
+## Live Link
+https://sashvanth0430.github.io/LibraryManagementSystem/
 
 
 ## Features
@@ -35,4 +36,13 @@ Notes in mind, Windows setup is not too tricky:
  + The most important function of any library is to issue and return books. This system includes a panel to view all outstanding logs and a super simple panel to issue and return books for all librarians.
 
 
-![](meta/screencapture-library-local-1450375427449.png)
+## Screenshots
+
+![](meta/AdminLogin.png)
+![](meta/AddBooks.png)
+![](meta/AddStudent.png)
+![](meta/IssuseBooks.png)
+![](meta/StudentReport.png)
+![](meta/StudentLogin.png)
+![](meta/ViewBooks.png)
+![](meta/PlaceOrder.png)
